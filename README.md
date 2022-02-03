@@ -1,6 +1,6 @@
 # **COVID19 Data Analysis Python**
 
-how to preprocess and merge datasets to calculate needed measures and prepare them for analysis. In this project, we are going to work with the COVID19 dataset, published by Johns Hopkins University, which consists of data related to the cumulative number of confirmed cases, per day, in each Country. Also, we have another dataset consisting of various life factors, scored by the people living in each country around the globe. We are going to merge these two datasets to see if there is any relationship between the spread of the virus in a country and how happy people are, living in that country.
+how to preprocess and merge datasets to calculate needed measures and prepare them for analysis. In this project, we are going to work with the COVID19 dataset, published by Johns Hopkins University, which consists of data related to the cumulative number of confirmed cases, per day, in each Country. Also, we have another dataset consisting of various life factors, scored by the people living in each country around the globe. We are going to merge these two datasets to see if there is any relationship between the spread of the virus in a country and how happy people are, living in that country...
 
 _Correlations:_
 
